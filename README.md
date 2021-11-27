@@ -1,6 +1,6 @@
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
+# TESTE 
 
-# ![Build your own X](feynman.png)
+![Build your own X](feynman.png)
 
 ## Table of contents
 
