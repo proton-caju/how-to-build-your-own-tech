@@ -1,5 +1,3 @@
-# TESTE 
-
 ![Build your own X](feynman.png)
 
 ## Table of contents
